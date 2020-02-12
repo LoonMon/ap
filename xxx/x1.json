@@ -1,12 +1,17 @@
 [
     {
-        "Title":"Title",
-        "Body":"Body",
-        "Url":"Url"
+        "title":"Title",
+        "body":"Body",
+        "url":"Url"
     },
     {
-        "Title":"Title",
-        "Body":"Body",
-        "Url":"Url"
+        "title":"Title",
+        "body":"Body",
+        "url":"Url"
+    },
+    {
+        "title":"Title",
+        "body":"Body",
+        "url":"Url"
     }
 ]
